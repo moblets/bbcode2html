@@ -1,0 +1,86 @@
+1) Tag de email
+
+Facilite o seu contato usando as tags [email]. Por exemplo:
+
+[email]email@dominio.com.br[/email]
+
+
+2) Tag de clique-para-ligar (telefone)
+
+Para esse formato, basta você inserir no seu texto o telefone do estabelecimento da seguinte forma:[tel]38769880[/tel].
+
+[tel=38769880]Clique aqui e ligue para a gente[/tel].
+
+3) Links externos (direcionamento pela Tag de link)
+
+Para fazer um link basta colocá-lo entre a tag [url]. Por exemplo:
+
+[url]http://fabricadeaplicativos.com.br[/url]
+
+Para acessar nosso site [url=nossosite.com.br] clique aqui[/url].
+
+4) Tag de Link (direcionamento para GPS)
+
+[url]www.fabricadeaplicativos.com.br[/url]
+
+[url=www.fabricadeaplicativos.com.br] Clique aqui para acessar o site[/url]
+
+Quando o usuário clicar na frase "Clique aqui para acessar o site" será direcionado para o site entre os colchetes (que neste caso é o site da Fábrica).
+
+5) Link Google Maps
+
+Faça uma pesquisa pelo endereço do local (destino final) no aplicativo do Google Maps, copie o link de endereço do local e insira as Tags de Link URL para ser direcionado até o local por um aplicativo de GPS instalado no seu celular.
+
+[url]http://goo.gl/maps/3378a[/url]
+
+
+6) Imagem
+
+[img]http://static.fabricadeaplicativos.com.br/wp/2014/03/img_destaque_pt_br.png[/img]
+
+ Use serviços como Photobucket ou Flickr para hospedar a sua imagem e adicionar ela no conteúdo da descrição do seu app.
+
+
+Para inserir imagem como um botão, utilize dessa forma:
+[tel=11000000000] [img]http://static.fabricadeaplicativos.com.br/wp/2014/03/img_destaque_pt_br.png[/img] [/tel]
+
+
+7) Tags de posicionamento
+
+Use títulos e sub-títulos com as tags [h1] e [h2]. Por exemplo:
+
+[h1]Título[/h1]
+
+[h2]Sub-título[/h2]
+
+[p]Este texto está em um novo parágrafo[/p]
+
+
+
+8) Quebra de linha
+
+Para pular uma linha basta escrever a tag [br]. Por exemplo:
+
+[br]
+
+Linha 2 do do meu texto.
+
+
+9) Opções de alinhamento
+
+As tags de posicionamento por padrão alinham os textos à esquerda. Para mudar isso basta adicionar um parâmetro de "center" para centralizar ou "right" para alinhar à direita. Por exemplo:
+
+[h2=center]Este sub-título está centralizado[/h2]
+
+[p=right]Este parágrafo está alinhado à direita[/p]
+
+
+10) Tags de estilo
+
+As tags [b], [i] e [u] são, respectivamente, para textos em negrito, itálico e sublinhado. Por exemplo:
+
+[b]Este é um texto em negrito[/b]
+
+[i]Este é um texto em itálico[/i]
+
+[u]Este é um texto sublinhado[/u]
